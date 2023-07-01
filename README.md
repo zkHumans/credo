@@ -90,8 +90,8 @@ Let us remain resolute in championing digital self-ownership.
 
 Onward.
 
-[^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
+[^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence)
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
-[^3]: Charles Marshall, Shattering the Glass Slipper.
+[^3]: [Charles Marshall, Shattering the Glass Slipper](http://charlesmarshall.net/products/shattering-the-glass-slipper)
 [^4]: [Cypherpunk Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)
 [^5]: [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
